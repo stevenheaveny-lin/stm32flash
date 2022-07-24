@@ -51,6 +51,8 @@ void		*p_st		= NULL;
 parser_t	*parser		= NULL;
 struct port_interface *port = NULL;
 
+
+
 /* settings */
 struct port_options port_opts = {
 	.device			= NULL,
